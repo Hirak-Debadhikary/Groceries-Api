@@ -1,0 +1,20 @@
+{
+  "groceries": [
+    {
+      "id": 1,
+      "name": "Groceries1",
+      "quantity": 2,
+      "price": 0.99,
+      "description": "Vegitables1",
+      "image": "https://media.istockphoto.com/id/1352758440/photo/paper-shopping-food-bag-with-grocery-and-vegetables.jpg?b=1&s=170667a&w=0&k=20&c=iKgsDK_4spbF8uECRQcmeebr1RSh2SnHDPM3FS2aaco="
+    },
+    {
+      "id": 2,
+      "name": "Groceries1",
+      "quantity": 3,
+      "price": 1.49,
+      "description": "Vegitables2",
+      "image": "https://img.jakpost.net/c/2020/03/24/2020_03_24_90456_1585030352._large.jpg"
+    }
+  ]
+}
